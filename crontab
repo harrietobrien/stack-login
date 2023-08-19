@@ -1,0 +1,1 @@
+30 4 * * * /usr/bin/python3 ~/Desktop/stack-login/login.py >/dev/null 2>&1
